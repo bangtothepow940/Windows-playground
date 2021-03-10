@@ -1,5 +1,5 @@
 # Windows-playground
-An little software for fun that adds misc things!
+An little Visual Basic software for fun that adds misc things!
 
 # This adds:
 -Random number
