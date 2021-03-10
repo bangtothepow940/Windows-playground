@@ -1,0 +1,17 @@
+C:\Users\terra\source\repos\WindowsMiniDebugger\obj\Debug\WindowsMiniDebugger.vbprojAssemblyReference.cache
+C:\Users\terra\source\repos\WindowsMiniDebugger\obj\Debug\WindowsMiniDebugger.vbproj.GenerateResource.cache
+C:\Users\terra\source\repos\WindowsMiniDebugger\obj\Debug\WindowsMiniDebugger.vbproj.CoreCompileInputs.cache
+C:\Users\terra\source\repos\WindowsMiniDebugger\bin\Debug\Windows playground.exe.config
+C:\Users\terra\source\repos\WindowsMiniDebugger\bin\Debug\Windows playground.exe
+C:\Users\terra\source\repos\WindowsMiniDebugger\bin\Debug\Windows playground.pdb
+C:\Users\terra\source\repos\WindowsMiniDebugger\bin\Debug\Windows playground.xml
+C:\Users\terra\source\repos\WindowsMiniDebugger\obj\Debug\WindowsPlayground.Form1.resources
+C:\Users\terra\source\repos\WindowsMiniDebugger\obj\Debug\WindowsPlayground.Resources.resources
+C:\Users\terra\source\repos\WindowsMiniDebugger\obj\Debug\Windows playground.exe
+C:\Users\terra\source\repos\WindowsMiniDebugger\obj\Debug\Windows playground.xml
+C:\Users\terra\source\repos\WindowsMiniDebugger\obj\Debug\Windows playground.pdb
+C:\Users\terra\source\repos\WindowsMiniDebugger\bin\Debug\Interop.WMPLib.dll
+C:\Users\terra\source\repos\WindowsMiniDebugger\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\terra\source\repos\WindowsMiniDebugger\obj\Debug\Interop.WMPLib.dll
+C:\Users\terra\source\repos\WindowsMiniDebugger\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\terra\source\repos\WindowsMiniDebugger\obj\Debug\WindowsMiniDebugger.vbproj.ResolveComReference.cache
